@@ -1,8 +1,7 @@
 ### Olá pessoal! Sou Laís Carinhanha  👋
 
-- 🌱 Atualmente estudo HTML CSS e Javascript
-- 📫 Me contate no email: bruna.brandaoc@hotmail.com
--->
+- 🌱 Atualmente estudo Análise e Desenvolvimento de sistemas
+- 📫 Me contate no email: laisg.carinhanha@outlook.com
 
 <div align="center">
   <a href="https://github.com/BrunaBrand">
