@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/BrunaBrand">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=LaisCarinhanha&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaisCarinhanha&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=laiscarinhanha&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscarinhanha&layout=compact&langs_count=7&theme=jolly"/>
 </div>
   
 <div style="display: inline_block"><br>
