@@ -4,7 +4,7 @@
 - 📫 Me contate no email: laisg.carinhanha@outlook.com
 
 <div align="center">
-  <a href="https://github.com/BrunaBrand">
+  <a href="https://github.com/laiscarinhanha">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=laiscarinhanha&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laiscarinhanha&layout=compact&langs_count=7&theme=jolly"/>
 </div>
@@ -15,7 +15,6 @@
   <img align="center" alt="Lais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Lais-gif" src="https://i.picasion.com/pic92/08eb650cfb430e5bd5953a5bce35784f.gif" width="90" height="90" border="0">
-  
   
 </div>
   
