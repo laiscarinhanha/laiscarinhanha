@@ -1,6 +1,6 @@
 ### Olá pessoal! Sou Laís Carinhanha  👋
 
-- 🌱 Atualmente estudo Análise e Desenvolvimento de sistemas
+- 🌱 Atualmente faço cursos de FullStack focada em JavaScript
 - 📫 Me contate no email: laisg.carinhanha@outlook.com
 
 <div align="center">
