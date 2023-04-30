@@ -10,11 +10,8 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lais-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Lais-gif" src="https://i.picasion.com/pic92/08eb650cfb430e5bd5953a5bce35784f.gif" width="90" height="90" border="0">
   
 </div>
   
