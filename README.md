@@ -1,7 +1,8 @@
 ### Olá pessoal! Sou Laís Carinhanha  👋
 
-- 🌱 Atualmente cursando Ciencias da Computação com foco em FullStack
-- 📫 Me contate no email: laisg.carinhanha@outlook.com
+- Atualmente cursando Ciencias da Computação
+- Futura Full Stack
+- Me contate no email: laisg.carinhanha@outlook.com
 
 <div align="center">
   <a href="https://github.com/laiscarinhanha">
@@ -10,8 +11,9 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lais-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lais-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lais-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Lais-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img align="center" alt="Lais-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   
 </div>
   
