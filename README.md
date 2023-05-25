@@ -1,7 +1,7 @@
 ### Olá pessoal! Sou Laís Carinhanha  👋
 
-- Atualmente cursando Análise e desenvolvimento de sistemas
-- Futura Full Stack
+- Atualmente estou cursando Análise e desenvolvimento de sistemas
+- Futura FullStack
 - Me contate no email: laisg.carinhanha@outlook.com
 
 <div align="center">
